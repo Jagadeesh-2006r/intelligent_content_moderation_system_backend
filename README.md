@@ -15,9 +15,8 @@ The SentriAI Backend manages API requests, processes user uploads, communicates 
 
 ## Tech Stack
 
-* Python
+* Python (Django)
 * FastAPI
-* Uvicorn
 * REST API
 
 ## Run Locally
